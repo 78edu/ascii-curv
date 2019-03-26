@@ -1,7 +1,8 @@
 Tunable generator of curves in ascii. 
 Please read comments in script for details.
 
-Looks better without "\r\n" and "-"
+Actual script looks better without "\r\n" and "-"
+
 *todo: fix readme for correct monotype show
 
 █--------------------------------------------------------------------------------------------------█ 
