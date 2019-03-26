@@ -1,3 +1,22 @@
+a=0	##Strings counter
+b=0	##Symbols per string counter
+maxh=100	##Max width (symbols)
+maxv=70	##Max. vertical limit for math function
+st=""	##String for cycle
+c="█"	##Fill symbol
+em=" "	##Empty space
+pp=" "	##Temp variable with next symbol, " " for 1st iteration
+curv=0	##Curve "equation"
+strs=[]	##Strings array after precalc
+####
+##(a*(maxh/maxv)) - just straight lines
+##((a/5)**3)*(maxh/maxv) - curves 1
+##((a/2)**2)*(maxh/maxv/3) - curves 2
+####
+
+Looks better without "\r\n" and "-"
+*todo: fix readme for correct monotype show
+
 █--------------------------------------------------------------------------------------------------█ 
 
 █--------------------------------------------------------------------------------------------------█ 
